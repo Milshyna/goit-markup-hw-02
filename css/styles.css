@@ -1,0 +1,20 @@
+/* цвет акцент color: #2196F3; 
+основной цвет текста color: #212121;
+вторичный цвет текста color: #757575;
+белый цвет текста  на темном фоне color: #FFFFFF;
+цвет для телефона в футере color: rgba(255, 255, 255, 0.6);
+основной цвет фона background: #FFFFFF;
+дополнительный цвет фона background: #F5F4FA;
+цвет фона  футера background: #2F303A;
+цает кнопки активное состояние background: #2196F3;
+цвет кнопки пассивное состояние background: #F5F4FA;
+ */
+body {
+  font-family: "Roboto", sans-serif;
+}
+.list {
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+}
