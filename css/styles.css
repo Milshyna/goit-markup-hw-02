@@ -170,7 +170,7 @@ body {
   color: var(--hero-button-text-color);
   background: var(--button-active-background);
 }
-/* ---------------------Наши проекты----------------------- */
+/* ---------------------Наши проекты в портофолио----------------------- */
 .project-link-title {
   font-weight: bold;
   font-size: 18px;
