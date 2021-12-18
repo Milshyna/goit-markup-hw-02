@@ -66,9 +66,9 @@ body {
 }
 .link.link-tel,
 .link.link-mail {
-  font-weight: 500;
+  font-weight: 400;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--second-text-color);
 }
@@ -90,7 +90,7 @@ body {
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  columns: var(--white-text-color);
+  color: var(--white-text-color);
 }
 .hero-button {
   font-family: inherit;
@@ -198,8 +198,10 @@ body {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--white-text-color);
+  font-style: normal;
 }
 .address-nav .footer-tel,
 .address-nav .footer-mail {
   color: var(--footer-text-tel-color);
+  font-style: normal;
 }
